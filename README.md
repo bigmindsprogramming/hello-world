@@ -1,3 +1,2 @@
 # hello-world
-I am cort.
-and i am lazy.
+I am having fun learning programming.
